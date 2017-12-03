@@ -3,3 +3,6 @@
 
 # Ignore all emacs backup files
 *~
+
+# Ignore IDE
+*.bfproject
