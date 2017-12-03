@@ -1,9 +1,9 @@
 c2e.convert_special: 0
 e2c.convert_num: 0
-openfiles: /home/leonardo/GIT/menu_simples/index.html:285:0:0:
+openfiles: /home/leonardo/GIT/menu_simples/index.html:718:0:1:
 openfiles: /home/leonardo/GIT/menu_simples/javascript.js:138:0:0:
 openfiles: /home/leonardo/GIT/menu_simples/README:0:0:0:
-openfiles: /home/leonardo/GIT/menu_simples/style.css:357:0:1:
+openfiles: /home/leonardo/GIT/menu_simples/style.css:357:0:0:
 snr_recursion_level: 5
 convertcolumn_horizontally: 0
 adv_open_matchname: 0
@@ -37,10 +37,10 @@ e2c.convert_iso: 0
 ssearch_casesens: 0
 charmap_block: 1
 recent_files: file:///home/leonardo/GIT/menu_simples/Novo%20arquivo
-recent_files: file:///home/leonardo/GIT/menu_simples/style.css
 recent_files: file:///home/leonardo/GIT/menu_simples/index.html
 recent_files: file:///home/leonardo/GIT/menu_simples/javascript.js
 recent_files: file:///home/leonardo/GIT/menu_simples/README
+recent_files: file:///home/leonardo/GIT/menu_simples/style.css
 snr_replacetype: 0
 savedir: file:///home/leonardo/GIT/menu_simples
 spell_check_default: 1

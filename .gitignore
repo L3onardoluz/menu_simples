@@ -1,2 +1,5 @@
 /MENU_SIMPLES/nbproject/private/
 /MENU_SIMPLES/build/
+
+# Ignore all emacs backup files
+*~
